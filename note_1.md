@@ -23,7 +23,7 @@
 
 又称\*异构系统\*，由 CPU 和 GPU 组成。
 
-![image-20231111153836979](D:\My-Study-App\CUDA\CUDA-pictures\image-20231111153836979.png)
+![image-20231111153836979]([D:\My-Study-App\CUDA\CUDA-pictures\image-20231111153836979.png](https://github.com/xxxlm-1/CUDA/blob/main/CUDA-pictures/image-20231111153836979.png))
 
 
 
