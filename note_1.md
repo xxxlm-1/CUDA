@@ -2,6 +2,10 @@
 
 ---
 
+[TOC]
+
+----
+
 ## 第一节
 
 #### **1.1 目标**
@@ -19,7 +23,7 @@
 
 又称\*异构系统\*，由 CPU 和 GPU 组成。
 
-![image-20231111153836979](C:\Users\Qin\AppData\Roaming\Typora\typora-user-images\image-20231111153836979.png)
+![image-20231111153836979](D:\My-Study-App\CUDA\CUDA-pictures\image-20231111153836979.png)
 
 
 
@@ -64,7 +68,9 @@ cudaDeviceSynchronize();
 > 1. 与给定核函数启动相关联的块的集合称为网格；
 > 2. 索引从0开始；
 
-实操 ：[03.01-thread-and-block-idx (1).cu](https://github.com/xxxlm-1/CUDA/blob/main/chapter_one/03.01-thread-and-block-idx (1).cu)
+实操 ：
+
+​		[03.01-thread-and-block-idx (1).cu](https://github.com/xxxlm-1/CUDA/blob/main/chapter_one/03.01-thread-and-block-idx%20(1).cu)
 
 ​		[04.01-single-block-loop.cu](https://github.com/xxxlm-1/CUDA/blob/main/chapter_one/04.01-single-block-loop.cu)
 
